@@ -154,6 +154,15 @@
     <ClInclude Include="src\Math\Vector4.h" />
     <ClInclude Include="src\olcPixelGameEngine.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Object Include="Models\Box.obj" />
+    <Object Include="Models\fantacy_tree_house.obj" />
+    <Object Include="Models\human_female.obj" />
+    <Object Include="Models\Monkey.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Models\fantacy_house.mtl" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

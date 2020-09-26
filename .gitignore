@@ -51,6 +51,7 @@ artifacts/
 *.ilk
 *.meta
 *.obj
+!Pixel3DRenderingEngine/Models/*.obj
 *.pch
 *.pdb
 *.pgc
